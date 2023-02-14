@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE)
 
-## GoGoCode123 是什么？
+## GoGoCode 是什么？
 
 [English version of README](README.md)
 
@@ -72,4 +72,4 @@ const b = 1;
 
 ## 开源协议
 
-[MIT](LICENSE)  123
+[MIT](LICENSE)
