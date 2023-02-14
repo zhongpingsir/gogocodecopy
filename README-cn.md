@@ -39,7 +39,7 @@ script.replace('const b = $_$', `const b = ${aValue}`);
 // 把 ast 节点输出成字符串
 const outCode = script.generate();
 ###.next2()
-```
+```哈哈
 
 ### 转换后代码
 
