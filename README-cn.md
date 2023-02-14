@@ -41,7 +41,7 @@ const outCode = script.generate();
 ###.next2()
 ```哈哈
 
-### 转换后代码
+### 转换后代码 ,xiugai
 
 ```javascript
 const a = 1;
